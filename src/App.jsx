@@ -1,12 +1,12 @@
 // import React from 'react'
-import Nav from "./Nav"
+import MonthlyExpenses from "./Nav"
 
 const App = () => {
   return (
     <div>
-      <Nav />
+      <MonthlyExpenses />
     </div>
-  )
+  );
 }
 
 export default App
